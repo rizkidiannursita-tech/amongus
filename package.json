@@ -1,0 +1,23 @@
+{
+  "name": "among-us-english-club-fixed",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "js-sha256": "^0.9.0",
+    "lz-string": "^1.5.0",
+    "qrcode": "^1.5.3",
+    "seedrandom": "^3.0.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.3.1",
+    "@vitejs/plugin-react": "^4.3.1"
+  }
+}
